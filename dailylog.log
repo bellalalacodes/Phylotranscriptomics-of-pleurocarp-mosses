@@ -1,0 +1,20 @@
+Setting up, first commands 
+
+Dec 3/25
+
+ls ~ opens the folder
+
+cd ~ 
+
+git clone ~ copies something, e.g. Github repository
+git clone https://github.com/bellalalacodes/Phylotranscriptomics-of-pleurocarp-mosses.git
+
+
+git commit -m "changes"     (needed first)    +
+git push ~ updates all changes to server 
+
+git remote set-url origin git@github.com:https://github.com/bellalalacodes/Phylotranscriptomics-of-pleurocarp-mosses.git
+
+git remote set-url origin git@github.com:https://github.com/[your GitHub]/[your repository].git
+
+git config --global user.email "isafresner@gmail.com"
